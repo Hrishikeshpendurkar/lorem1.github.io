@@ -1,0 +1,21 @@
+ <section class="footer">
+            <br><br>
+            <span class="textblock">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc vel risus. Fusce id velit ut tortor pretium viverra. Maecenas sed enim ut sem viverra. Enim neque volutpat ac tincidunt. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. In egestas erat imperdiet sed. Phasellus vestibulum lorem sed risus. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Lorem donec massa sapien faucibus et molestie ac feugiat.  </span>
+            <span class="blocks block4">
+            </span>
+        </section>
+        <section class="footer">
+            <br><br>
+            <span class="blocks block1">
+            </span>
+            <span class="textblock">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc vel risus. Fusce id velit ut tortor pretium viverra. Maecenas sed enim ut sem viverra. Enim neque volutpat ac tincidunt. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. In egestas erat imperdiet sed. Phasellus vestibulum lorem sed risus. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Lorem donec massa sapien faucibus et molestie ac feugiat.</span>
+        </section>
+
+
+        background: url() no-repeat center center fixed; 
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;

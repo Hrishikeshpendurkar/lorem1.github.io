@@ -1,0 +1,16 @@
+<div class="blocks"> 
+                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h4>
+                <button>ABC</button>
+            </div>
+            <div class="blocks"> 
+                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h4>
+                <button>ABC</button>
+            </div>
+            <div class="blocks"> 
+                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h4>
+                <button>ABC</button>
+            </div>
+            <div class="final"> 
+                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h4>
+                <button>ABC</button>
+            </div>
